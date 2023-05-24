@@ -10,4 +10,5 @@ This repository recorded the program for our DIY tactile sensor for UR5e. We can
 5. Battery(7.2V 1000mh) x 1
 6. Bluetooth wireless module(HC-05 x 1 and HC-06 x 1)
 
-- [ ] **Software**: C(for Arduino), Python(for reading data on Ubuntu)
+- [ ] **Software**: `C`(for Arduino), `Python`(for reading data on Ubuntu)
+
